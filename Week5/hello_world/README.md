@@ -1,4 +1,4 @@
-# hello_world
+# hello_world1
 
 A new Flutter project.
 
@@ -14,3 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Prac 3 - Step 12
+![Screenshot hello_world](images/01.png)
+
+## Prac 4 - Step 1
+![Screenshot text_widget](images/text_widget.png)
+
+## Prac 4 - Step 2
+![Screenshot image_widget](images/image_widget.png)
+
+## JS 5
+![Screenshot practicum5](images/JS5.png)
